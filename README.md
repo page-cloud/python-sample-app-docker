@@ -1,5 +1,5 @@
 # git clone https://github.com/page-cloud/python-sample-app-docker.git
-# cd python-sample-app-docke
+# cd python-sample-app-docker
 # docker build -t myapp .
 # docker run --name webserver -dit -p 8080:8080 myapp
 # docker ps
